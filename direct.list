@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,transmission2.eu.org
 DOMAIN-SUFFIX,transmission3.eu.org
 DOMAIN-SUFFIX,transmission4.eu.org
 # ASMR 资源
-DOMAIN-SUFFIX,asmr.one
+# DOMAIN-SUFFIX,asmr.one
 DOMAIN-SUFFIX,kiko-play-niptan.one
 DOMAIN-SUFFIX,hiruma.xyz
 DOMAIN-SUFFIX,asmrconnecting.xyz
