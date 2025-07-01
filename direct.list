@@ -1,0 +1,16 @@
+# 紫缘社 galgame资源网站
+DOMAIN-SUFFIX,transmission.eu.org
+DOMAIN-SUFFIX,transmission2.eu.org
+DOMAIN-SUFFIX,transmission3.eu.org
+DOMAIN-SUFFIX,transmission4.eu.org
+# ASMR 资源
+DOMAIN-SUFFIX,asmr.one
+DOMAIN-SUFFIX,kiko-play-niptan.one
+DOMAIN-SUFFIX,hiruma.xyz
+DOMAIN-SUFFIX,asmrconnecting.xyz
+# HIKARI FIELD
+DOMAIN-SUFFIX,store.hikarifield.co.jp
+#其他
+DOMAIN-SUFFIX,kairin.top
+DOMAIN-SUFFIX,kairin.us.kg
+IP-CIDR,206.237.10.77/32
